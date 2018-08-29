@@ -4,10 +4,10 @@ The default search is "puppies," because how bad could that be?
 
 ## How to Use
 
-`git clone`
+`git clone
 
-`npm install`
+npm install
 
-`npm start`
+npm start`
 
 Navigate to localhost:8080
